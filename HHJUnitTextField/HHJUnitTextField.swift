@@ -14,7 +14,7 @@ public class HHJUnitTextField: UIView {
     
     var preUnit: UILabel?
     var sufUnit: UILabel?
-    let textField: UITextField!
+    public let textField: UITextField!
     
     override init(frame: CGRect) {
         textField = UITextField()
