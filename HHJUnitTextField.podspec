@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'HHJShowBigImage'
+  s.name     = 'HHJUnitTextField'
   s.version  = '0.0.1'
   s.license  = 'MIT'
   s.author   = {'szulmj' => 'https://github.com/szhonghaijiang' }
